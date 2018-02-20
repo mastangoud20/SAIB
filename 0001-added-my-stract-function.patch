@@ -1,0 +1,27 @@
+From 8c6cba065a0b10d635e64910cdef9b948e215549 Mon Sep 17 00:00:00 2001
+From: mastan <mastan@gmail.com>
+Date: Tue, 20 Feb 2018 20:14:01 +0530
+Subject: [PATCH] added my stract function
+
+---
+ ABC.txt | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+diff --git a/ABC.txt b/ABC.txt
+index 217741c..1b609ff 100644
+--- a/ABC.txt
++++ b/ABC.txt
+@@ -3,4 +3,7 @@ stage 1
+ stage 2
+ 
+ 
+-stage 3
+\ No newline at end of file
++stage 3
++
++
++applied scratcch function
+\ No newline at end of file
+-- 
+2.16.1.windows.2
+
